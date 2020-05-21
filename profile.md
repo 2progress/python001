@@ -2,4 +2,4 @@
 test
 僕は狸
 next
-devdev3
+devdev
